@@ -1,1 +1,7 @@
 Hello World!
+“This is hello from Jenesis and Kelly Constance. I am adding a new line of
+code here.”
+“feat: basic commit with added new line of string”
+“Hello again. I am here to add in a second line. I am <insert your name
+here>”
+“fix: basic commit with added second line of string
